@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C# Express 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApplication1", "WpfApplication1.csproj", "{D359D410-DB48-4C2A-BFBF-AB61B6D6AB33}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AudioModem", "..\SignalFilter\AudioModem.csproj", "{FCA00B83-C4EA-4DC9-9C8A-1EEFB14E2DF3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignalTrace", "..\SignalRecorder\SignalTrace.csproj", "{EC6010CC-4F75-42CB-92D4-9E8A7DFEC2BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D359D410-DB48-4C2A-BFBF-AB61B6D6AB33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D359D410-DB48-4C2A-BFBF-AB61B6D6AB33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D359D410-DB48-4C2A-BFBF-AB61B6D6AB33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D359D410-DB48-4C2A-BFBF-AB61B6D6AB33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCA00B83-C4EA-4DC9-9C8A-1EEFB14E2DF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCA00B83-C4EA-4DC9-9C8A-1EEFB14E2DF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCA00B83-C4EA-4DC9-9C8A-1EEFB14E2DF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCA00B83-C4EA-4DC9-9C8A-1EEFB14E2DF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC6010CC-4F75-42CB-92D4-9E8A7DFEC2BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC6010CC-4F75-42CB-92D4-9E8A7DFEC2BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC6010CC-4F75-42CB-92D4-9E8A7DFEC2BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC6010CC-4F75-42CB-92D4-9E8A7DFEC2BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
