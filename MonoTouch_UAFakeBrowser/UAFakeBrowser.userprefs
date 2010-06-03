@@ -1,0 +1,23 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhone" ctype="Workspace" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="UAFakeBrowerController.xib.cs" ctype="Workbench">
+    <Files>
+      <File FileName="UAFakeBrowerController.xib.designer.cs" Line="62" Column="1" />
+      <File FileName="Main.cs" Line="1" Column="1" />
+      <File FileName="UAFakeBrowerController.xib.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="UAFakeBrowser" expanded="True" selected="True">
+            <Node name="UAFakeBrowerController.xib" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches ctype="PinnedWatchStore" />
+</Properties>
